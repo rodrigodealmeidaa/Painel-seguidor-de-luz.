@@ -1,1 +1,0 @@
-# Painel-seguidor-de-luz.
